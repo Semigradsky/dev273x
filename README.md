@@ -1,4 +1,4 @@
-# dev273x | Introduction to TypeScript 2
+# dev273x | [Introduction to TypeScript 2](https://www.edx.org/course/introduction-typescript-2-microsoft-dev273x)
 
 ## Module 2 | Programming and Types in TypeScript
 
